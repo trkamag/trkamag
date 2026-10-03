@@ -28,10 +28,30 @@ Here are some ideas to get you started:
 ----------
 Personal website and blog: https://trkamag.github.io/
 
-🔧 Technologies & Tools
---------
-My Skills
+## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,python,bash,cassandra,devto,latex,mysql,postgres,postman,terraform,anaconda,docker,kubernetes,linux,npm,tensorflow,)](https://skillicons.dev)
+### Cloud Services
+![AWS](https://img.shields.io/badge/Cloud-AWS-6495ED?style=plastic)
+![Bedrock](https://img.shields.io/badge/AI-Bedrock-6495ED?style=plastic)
+![Lambda](https://img.shields.io/badge/Compute-AWS%20Lambda-6495ED?style=plastic)
+![Sagemaker](https://img.shields.io/badge/ML-Amazon%20Sagemaker-6495ED?style=plastic)
+![Gateway](https://img.shields.io/badge/API-Amazon%20API%20Gateway-6495ED?style=plastic)
+![Database](https://img.shields.io/badge/Database-Amazon%20DynamoDB-6495ED?style=plastic)
+![Sagemaker](https://img.shields.io/badge/ML-AWS%20Sagemaker-6495ED?style=plastic)
+![Sagemaker](https://img.shields.io/badge/ML-AWS%20Sagemaker-6495ED?style=plastic)
+![Sagemaker](https://img.shields.io/badge/ML-AWS%20Sagemaker-6495ED?style=plastic)
+![Sagemaker](https://img.shields.io/badge/ML-AWS%20Sagemaker-6495ED?style=plastic)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Code-Python-6495ED?style=plastic&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Code-Rust-6495ED?style=plastic&logo=rust&logoColor=white)
+
+### Tools and Services
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-6495ED?style=plastic&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Tools-Docker-6495ED?style=plastic&logo=docker&logoColor=white)
+
 
 🏆 GitHub Trophies
+
+
+
