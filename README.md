@@ -44,7 +44,9 @@ Personal website and blog: https://trkamag.github.io/
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Code-Python-6495ED?style=plastic&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Code-Rust-6495ED?style=plastic&logo=rust&logoColor=white)
+![SAS](https://img.shields.io/badge/Code-Sas-6495ED?style=plastic&logo=sas&logoColor=white)
+![Bash](https://img.shields.io/badge/Code-bash-6495ED?style=plastic&logo=bash&logoColor=white)
+![Latex](https://img.shields.io/badge/Code-Latex-6495ED?style=plastic&logo=latex&logoColor=white)
 
 ### Tools and Services
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-6495ED?style=plastic&logo=kubernetes&logoColor=white)
